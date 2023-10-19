@@ -115,6 +115,10 @@
     color: #999;
   }
 
+  .post-box .post-description {
+    color: #666;
+  }
+  
   .post-box img {
     width: 100%;
   }
