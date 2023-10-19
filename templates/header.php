@@ -23,4 +23,4 @@ require_once ("helpers/url.php");
             class="nav-link">Contato</a></li>
         </ul>
     </header>
-</body
+</body>
